@@ -1,0 +1,4 @@
+Asymptotic notation
+	theta - Drop lower order terms ignore leading constant
+	ex. 3n^3 - 90n^2 = theta(n^3)
+
